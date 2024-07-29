@@ -1,0 +1,59 @@
+.nav-yellow {
+    background-color: #ffc107;
+  }
+  
+  .navbar-brand .fa-cart-shopping {
+    font-size: 24px;
+    color: #f54242;
+  }
+  
+  .navbar-nav .nav-link {
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: #f54242;
+  }
+  
+  .navbar-nav .dropdown-menu {
+    border-radius: 0;
+    margin-top: 0;
+  }
+  
+  .navbar-nav .dropdown-item {
+    padding: 10px 20px;
+  }
+  
+  .navbar-nav .dropdown-item:hover {
+    background-color: #f8f9fa;
+  }
+  
+  .navbar-toggler {
+    border: none;
+  }
+  
+  .navbar-toggler-icon {
+    background-image: url('data:image/svg+xml;charset=utf8,%3Csvg viewBox="0 0 30 30" xmlns="http://www.w3.org/2000/svg"%3E%3Cpath stroke="rgba%28222, 222, 222, 0.5%29" stroke-width="2" linecap="round" linejoin="round" d="M4 7h22M4 15h22M4 23h22"/%3E%3C/svg%3E');
+  }
+  
+  .closeBtn {
+    background: none;
+    border: none;
+    color: #0d0d0d;
+  }
+  
+  .closeBtn:hover {
+    color: #f54242;
+  }
+  
+  .btn-danger {
+    background-color: #f54242;
+    border-color: #f54242;
+  }
+  
+  .textBlur {
+    color: #000;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+  }
+  

@@ -1,0 +1,107 @@
+{
+  "users": [
+    {
+      "id": "d5d4",
+      "email": "adiseshu@gmail.com",
+      "password": "Seshu@13242",
+      "mobile": "1111111111"
+    },
+    {
+      "id": "0901",
+      "email": "adi@gmail.com",
+      "password": "Seshu@876",
+      "mobile": "2222222222"
+    }
+  ],
+  "productsList": [
+    {
+      "kind": "content#product",
+      "id": "online:en:US:1111111111",
+      "offerId": "1111111111",
+      "source": "api",
+      "title": "Google Tee Black",
+      "description": "The Black Google Tee is available in unisex sizing.",
+      "link": "http://my.site.com/blacktee/",
+      "imageLink": "https://shop.example.com/.../images/GGOEGXXX1100.jpg",
+      "contentLanguage": "en",
+      "targetCountry": "US",
+      "feedLabel": "US",
+      "channel": "online",
+      "ageGroup": "adult",
+      "availability": "in stock",
+      "availabilityDate": "2019-01-25T13:00:00-08:00",
+      "brand": "Google",
+      "color": "black",
+      "condition": "new",
+      "gender": "male",
+      "googleProductCategory": "1604",
+      "gtin": "608802531656",
+      "itemGroupId": "google_tee",
+      "mpn": "608802531656",
+      "price": {
+        "value": "21.99",
+        "currency": "USD"
+      },
+      "sizes": ["Large"]
+    },
+    {
+      "kind": "content#product",
+      "id": "online:en:US:2222222222",
+      "offerId": "2222222222",
+      "source": "api",
+      "title": "Google Tee Green",
+      "description": "100% cotton jersey fabric sets this Google t-shirt above the crowd. Features the google logo across the chest. Unisex sizing.",
+      "link": "http://my.site.com/greentee/",
+      "imageLink": "https://shop.example.com/.../images/GGOEGXXX0906.jpg",
+      "contentLanguage": "en",
+      "targetCountry": "US",
+      "feedLabel": "US",
+      "channel": "online",
+      "ageGroup": "adult",
+      "availability": "in stock",
+      "availabilityDate": "2019-01-25T13:00:00-08:00",
+      "brand": "Google",
+      "color": "green",
+      "condition": "new",
+      "gender": "male",
+      "googleProductCategory": "1604",
+      "gtin": "608802531649",
+      "itemGroupId": "google_tee",
+      "mpn": "608802531649",
+      "price": {
+        "value": "21.99",
+        "currency": "USD"
+      },
+      "sizes": ["Medium"]
+    },
+    {
+      "kind": "content#product",
+      "id": "online:en:US:3333333333",
+      "offerId": "3333333333",
+      "source": "api",
+      "title": "Google Twill Cap",
+      "description": "Classic urban styling distinguishes this Google cap. Retains its shape, even when not being worn.",
+      "link": "http://my.site.com/blackhat/",
+      "imageLink": "https://shop.example.com/.../images/GGOEGHPB071610.jpg",
+      "contentLanguage": "en",
+      "targetCountry": "US",
+      "feedLabel": "US",
+      "channel": "online",
+      "ageGroup": "adult",
+      "availability": "in stock",
+      "availabilityDate": "2019-01-07T13:00:00-08:00",
+      "brand": "Google",
+      "color": "black",
+      "condition": "new",
+      "gender": "male",
+      "googleProductCategory": "173",
+      "gtin": "689355417246",
+      "mpn": "689355417246",
+      "price": {
+        "value": "10.99",
+        "currency": "USD"
+      },
+      "sizes": ["Medium"]
+    }
+  ]
+}
