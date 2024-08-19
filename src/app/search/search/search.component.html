@@ -1,0 +1,23 @@
+<div class="input-group">
+  <select class="form-select" [(ngModel)]="category">
+    <option *ngFor="let cat of categories" [value]="cat">
+      {{ cat | titlecase }}
+    </option>
+  </select>
+  <input
+    type="text"
+    class="form-control"
+    [(ngModel)]="query"
+    placeholder="Search for products..."
+  />
+  <button class="btn btn-warning text-white" (click)="onSearch()">
+    Search
+  </button>
+</div>
+
+<!-- Display search results -->
+<div *ngIf="results.length > 0">
+  <ul>
+    <li *ngFor="let product of results">{{ product.name }}</li>
+  </ul>
+</div>

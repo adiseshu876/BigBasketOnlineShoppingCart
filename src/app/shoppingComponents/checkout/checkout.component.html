@@ -1,0 +1,119 @@
+<div class="checkout">
+  <h1>Checkout</h1>
+  <div class="row">
+    <div class="col-sm-7">
+      <h3>Add shipping address</h3>
+      <p class="message-p">{{ orderMsg }}</p>
+      <form [formGroup]="checkoutForm" class="common-form" (ngSubmit)="orderNow()">
+        <input
+          type="text"
+          class="form-input"
+          formControlName="email"
+          placeholder="Enter User Email"
+        />
+        <div *ngIf="checkoutForm.get('email')?.invalid && checkoutForm.get('email')?.touched">
+          <small *ngIf="checkoutForm.get('email')?.errors?.['required']" class="text-danger">Email is required.</small>
+          <small *ngIf="checkoutForm.get('email')?.errors?.['email']" class="text-danger">Invalid email format.</small>
+        </div>
+
+        <input
+          type="text"
+          class="form-input"
+          formControlName="address"
+          placeholder="Enter User Address"
+        />
+        <div *ngIf="checkoutForm.get('address')?.invalid && checkoutForm.get('address')?.touched">
+          <small *ngIf="checkoutForm.get('address')?.errors?.['required']" class="text-danger">Address is required.</small>
+        </div>
+
+        <input
+          type="text"
+          class="form-input"
+          formControlName="contact"
+          placeholder="Enter contact details"
+          maxlength="10"
+        />
+        <div *ngIf="checkoutForm.get('contact')?.invalid && checkoutForm.get('contact')?.touched">
+          <small *ngIf="checkoutForm.get('contact')?.errors?.['required']" class="text-danger">Contact number is required.</small>
+          <small *ngIf="checkoutForm.get('contact')?.errors?.['pattern']" class="text-danger">Contact number must be 10 digits.</small>
+        </div>
+
+        <h3>Select Payment Method</h3>
+        <div class="form-group">
+          <div class="form-check">
+            <input
+              type="radio"
+              class="form-check-input"
+              id="cod"
+              formControlName="paymentMethod"
+              value="cod"
+            />
+            <label for="cod" class="form-check-label">Pay on Delivery</label>
+          </div>
+          <div class="form-check">
+            <input
+              type="radio"
+              class="form-check-input"
+              id="card"
+              formControlName="paymentMethod"
+              value="card"
+            />
+            <label for="card" class="form-check-label">Credit/Debit Card</label>
+          </div>
+          <div class="form-check">
+            <input
+              type="radio"
+              class="form-check-input"
+              id="online"
+              formControlName="paymentMethod"
+              value="online"
+            />
+            <label for="online" class="form-check-label">Online Payment</label>
+          </div>
+        </div>
+
+        <div *ngIf="checkoutForm.get('paymentMethod')?.value === 'card'">
+          <input
+            type="text"
+            class="form-input"
+            formControlName="cardNumber"
+            placeholder="Card Number"
+          />
+          <div *ngIf="checkoutForm.get('cardNumber')?.invalid && checkoutForm.get('cardNumber')?.touched">
+            <small class="text-danger">Card number is required and must be 16 digits.</small>
+          </div>
+
+          <input
+            type="text"
+            class="form-input"
+            formControlName="cardExpiry"
+            placeholder="Expiry Date (MM/YY)"
+          />
+          <div *ngIf="checkoutForm.get('cardExpiry')?.invalid && checkoutForm.get('cardExpiry')?.touched">
+            <small class="text-danger">Expiry date is required.</small>
+          </div>
+
+          <input
+            type="text"
+            class="form-input"
+            formControlName="cardCVV"
+            placeholder="CVV"
+            maxlength="3"
+          />
+          <div *ngIf="checkoutForm.get('cardCVV')?.invalid && checkoutForm.get('cardCVV')?.touched">
+            <small class="text-danger">CVV is required and must be 3 digits.</small>
+          </div>
+        </div>
+
+        <button class="form-button" type="submit" [disabled]="checkoutForm.invalid" routerLink="/orders">Order Now</button>
+      </form>
+    </div>
+    <div class="col-sm-5">
+      <h3>Total Amount: ₹{{ totalPrice }}</h3>
+      <h4>Payment Method: <b>{{ checkoutForm.get('paymentMethod')?.value | titlecase }}</b></h4>
+      <div *ngFor="let product of cart">
+        <p>{{ product.name }} - ₹{{ product.price }} x {{ product.quantity }}</p>
+      </div>
+    </div>
+  </div>
+</div>

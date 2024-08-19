@@ -2,6 +2,9 @@
     max-width: 400px;
     margin: 0 auto;
     padding: 20px;
+    position: relative;
+    /* bottom: -1rem; */
+    top: 7rem;
     border: 1px solid #ccc;
     border-radius: 5px;
 }

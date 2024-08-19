@@ -1,0 +1,71 @@
+<strong class="cart-info"><i class="fa-solid fa-cart-shopping"></i>YourCart</strong>
+<hr>
+<div class="container">
+  <div class="row">
+    <!-- Check if productsList has items -->
+    <div *ngIf="productsList && productsList.length > 0; else noItems">
+      <div class="table-responsive">
+        <table class="table table-bordered">
+          <thead>
+            <tr>
+              <th>Name</th>
+              <th>Description</th>
+              <th>Price </th>
+              <th>Color</th>
+              <th>Category</th>
+              <th>Image</th>
+              <th>Rating</th>
+              <th>Quantity</th>
+              <th>Actions</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let product of productsList">
+              <td>{{ product.name }}</td>
+              <td>{{ product.description }}</td>
+              <td><span>₹</span>{{ product.price }}<span>Kg</span></td>
+              <td>{{ product.color }}</td>
+              <td>{{ product.category }}</td>
+              <td class="text-center">
+                <img [src]="product.image" alt="{{ product.name }}" class="img-fluid" style="max-width: 100px;" />
+              </td>
+              <td class="text-center">
+                <span><i class="fa-solid fa-star m-0" style="color: #f1f50f"></i></span>
+                <span><i class="fa-solid fa-star m-0" style="color: #f1f50f"></i></span>
+                <span><i class="fa-solid fa-star-half-stroke m-0" style="color: #f1f50f"></i></span>
+                <span class="text-muted">(25)</span>
+              </td>
+              <td class="text-center">
+                <div class="d-flex justify-content-center align-items-center">
+                  <button type="button" class="btn btn-secondary" (click)="decreaseQuantity(product.id)">-</button>
+                  <span class="mx-2">{{ getQuantity(product.id) }}</span>
+                  <button type="button" class="btn btn-secondary" (click)="increaseQuantity(product.id)">+</button>
+                </div>
+              </td>
+              <td class="text-center">
+                <button type="button" class="btn btn-primary" (click)="onRemove(product.id)">Remove</button>
+              </td>
+            </tr>
+          </tbody>
+          <tfoot>
+            <tr>
+              <td colspan="8" class="text-end">
+                <strong>Total Price: ₹{{ totalPrice }}</strong>
+              </td>
+              <td class="text-center" colspan="1">
+                <button type="button" class="btn btn-primary" routerLink="/checkout" (click)="BuyProduct()">CheckOut</button>
+              </td>
+            </tr>
+          </tfoot>
+        </table>
+      </div>
+    </div>
+
+    <!-- Template for no items available -->
+    <ng-template #noItems>
+      <div class="col-12 text-center">
+        <p>No items available.</p>
+      </div>
+    </ng-template>
+  </div>
+</div>

@@ -1,0 +1,41 @@
+<div class="main-container">
+    <form [formGroup]="sellerForm" (ngSubmit)="onSubmit()">
+        <div class="form-group">
+            <label for="email" class="form-label">Email</label>
+            <input type="email" placeholder="Enter your email" class="form-control" formControlName="email" />
+            <div *ngIf="
+            sellerForm.get('email')?.invalid && sellerForm.get('email')?.touched
+          " class="text-danger">
+                <small *ngIf="sellerForm.get('email')?.errors?.required" class="text-danger">Enter your email</small>
+                <small *ngIf="sellerForm.get('email')?.errors?.pattern" class="text-danger">Invalid email format</small>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="password" class="form-label">Password</label>
+            <input type="password" placeholder="Enter your password" class="form-control" formControlName="password" />
+            <div *ngIf="
+            sellerForm.get('password')?.invalid &&
+            sellerForm.get('password')?.touched
+          " class="text-danger">
+                <small *ngIf="sellerForm.get('password')?.errors?.required" class="text-danger">Enter your
+                    password</small>
+                <small *ngIf="sellerForm.get('password')?.errors?.pattern" class="text-danger">Password must be at least
+                    8 characters long with format</small>
+            </div>
+        </div>
+
+        <br />
+        <button type="submit" class="btn btn-primary" [disabled]="sellerForm.invalid">
+            Login
+        </button>
+        <div>
+            <small>
+                <a routerLink="/password">Forget-Password</a>
+            </small>
+            <small>
+                Create an account? <a routerLink="/seller-register">Sign-Up</a>
+            </small>
+        </div>
+    </form>
+</div>

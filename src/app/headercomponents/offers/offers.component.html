@@ -1,0 +1,80 @@
+<app-home></app-home>
+<div class="fruit-container">
+    <strong>Fresh Fruits</strong>
+    <span>Homegrown produce & internationally sourced fresh fruit, all meeting our rigorous safety standards, delivered to your doorstep.</span>
+    <div class="fruit-image"></div>
+</div>
+<div>
+    <!-- <app-home></app-home> -->
+    <div class="container my-4">
+      <!-- Display success and error messages conditionally -->
+      <div class="row">
+        <div *ngIf="successMessage" class="alert alert-success w-100">
+          {{ successMessage }}
+        </div>
+        <div *ngIf="errorMessage" class="alert alert-danger w-100">
+          {{ errorMessage }}
+        </div>
+      </div>
+    
+      <!-- Product List -->
+      <div class="row">
+        <div *ngFor="let product of productsList" class="col-lg-4 col-md-6 mb-4">
+          <div class="card h-100 shadow-sm border-0 rounded hover-effect">
+            <div class="card-body p-4">
+              <div class="productDetails-Container mb-3">
+                <label class="font-weight-bold"><strong>ProductName:</strong></label>
+                <div>{{ product.name }}</div>
+              </div>
+              <div class="productDetails-Container mb-3">
+                <label class="font-weight-bold"><strong>Product Price:</strong></label>
+                <div><span>₹</span>{{ product.price }} <span>Kg</span></div>
+              </div>
+              <div class="productDetails-Container mb-3">
+                <label class="font-weight-bold"><strong>Color:</strong></label>
+                <div>{{ product.color }}</div>
+              </div>
+              <div class="text-center mb-3">
+                <img
+                  [src]="product.image"
+                  alt="{{ product.name }}"
+                  class="img-fluid rounded"
+                  style="max-height: 200px; object-fit: cover"
+                />
+              </div>
+              <div class="col-6 mb-3">
+                <span><i class="fa-solid fa-star m-0" style="color: #f1f50f"></i></span>
+                <span><i class="fa-solid fa-star m-0" style="color: #f1f50f"></i></span>
+                <span><i class="fa-solid fa-star m-0" style="color: #f1f50f"></i></span>
+                <span><i class="fa-solid fa-star-half-stroke m-0" style="color: #f1f50f"></i></span>
+                <span class="text-muted">(25)</span>
+              </div>
+              <div class="d-flex justify-content-between align-items-center">
+                <button
+                  type="button"
+                  class="btn btn-primary btn-sm"
+                  (click)="OnFruits(product)"
+                >
+                  Add to Cart
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <!-- CSS -->
+    <style>
+      .hover-effect {
+        transition: transform 0.3s, box-shadow 0.3s, border-color 0.3s;
+      }
+    
+      .hover-effect:hover {
+        transform: scale(1.05);
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        border-color: #007bff; /* Change border color on hover */
+      }
+    </style>
+    
+</div>

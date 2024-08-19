@@ -1,0 +1,95 @@
+.product-list {
+    cursor: pointer;
+    transition: transform 0.3s;
+  }
+  
+  .product-list:hover {
+    transform: scale(1.05);
+  }
+  
+  .product-list img {
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+    margin-top: 10px;
+  }
+  .productDetails-Container{
+    display: flex;
+    font-family: auto;
+    color: black;
+    /* background-color: red; */
+
+  }
+  @media (min-width: 768px) {
+    .container-md, .container-sm, .container {
+        max-width: 720px;
+        padding: 1rem;
+    }
+}
+.product-list img {
+  height: 100px;
+  width: 100px;
+  object-fit: cover;
+  margin-top: 10px;
+}
+.productDetails-Container{
+  display: flex;
+  font-family: auto;
+  color: black;
+  /* background-color: red; */
+
+}
+.hover-effect {
+  transition: transform 0.3s, box-shadow 0.3s, border-color 0.3s;
+}
+
+.hover-effect:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-color: #007bff; /* Change border color on hover */
+}
+.Vegetables-container{
+  /* display: flex; */
+ /* flex-direction: column; */
+ text-align: center;
+ /* height: 11rem; */
+ box-sizing: 2px solid;
+ border: -4px solid;
+ /* padding: 1rem; */
+ /* margin: 1rem; */
+ background-color: beige;
+ /* position: absolute; */
+ /* width: 100%; */
+ left: -1rem;
+ font-size: larger;
+ font-style: italic;
+ display: block;
+ margin-bottom: 20px;
+ font-size: 16px;
+ color: #555;
+}
+.Vegetables-arrangement{
+ display: flex;
+ flex-direction: column;
+}
+.fruit-container strong {
+ display: block;
+ font-size: 24px;
+ margin-bottom: 10px;
+}
+
+.fruit-container span {
+ display: block;
+ margin-bottom: 20px;
+ font-size: 16px;
+ color: #555;
+}
+
+.fruit-image {
+ width: 100%; /* The image will take up the full width of its container */
+ height: 300px; /* Sets a fixed height for the image, adjust as needed */
+background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRDY7m3G3NWw3u4t5SWSyQvYWAPfs9MqHA0A&s');
+ background-size: cover; /* Ensures the image covers the entire container while maintaining aspect ratio */
+ background-position: center; /* Centers the image within the container */
+ background-repeat: no-repeat; /* Prevents the image from repeating */
+}
