@@ -32,89 +32,251 @@
       "id": "3ae2"
     },
     {
-      "name": "Tomatoes",
+      "name": "Lady's Finger",
       "price": "50",
       "category": "vegetables",
-      "color": "red",
-      "description": "Fresh red tomatoes",
-      "image": "https://gourmetgarden.in/cdn/shop/files/GG_Tomato_a7704689-80fa-483f-bf19-3e39c1ae985e_375x.jpg?v=1721720174",
+      "color": "green",
+      "description": "Fresh green Lady's Finger",
+      "image": "https://gourmetgarden.in/cdn/shop/files/Untitleddesign_375x.png?v=1704253215",
       "id": "545c"
     },
     {
-      "name": "Tomatoes",
+      "name": "Onion",
       "price": "50",
       "category": "vegetables",
       "color": "red",
-      "description": "Fresh red tomatoes",
-      "image": "https://gourmetgarden.in/cdn/shop/files/GG_Tomato_a7704689-80fa-483f-bf19-3e39c1ae985e_375x.jpg?v=1721720174",
+      "description": "Fresh red onion",
+      "image": "https://gourmetgarden.in/cdn/shop/files/GGOnions_384262a7-4b5b-4833-b1ae-09866fcb3ad5_375x.jpg?v=1721720068",
       "id": "4ca0"
     },
     {
-      "name": "Tomatoes",
+      "name": "potato",
       "price": "50",
       "category": "vegetables",
-      "color": "red",
-      "description": "Fresh red tomatoes",
-      "image": "https://gourmetgarden.in/cdn/shop/files/GG_Tomato_a7704689-80fa-483f-bf19-3e39c1ae985e_375x.jpg?v=1721720174",
+      "color": "yellow",
+      "description": "Fresh yellow potato",
+      "image": "https://gourmetgarden.in/cdn/shop/products/Potatoe_83c95a15-4973-40ab-bca2-b3465ba0a167_375x.jpg?v=1703765777",
       "id": "4c92"
     },
     {
-      "name": "Tomatoes",
+      "name": "Ridge Gourd",
       "price": "50",
       "category": "vegetables",
-      "color": "red",
-      "description": "Fresh red tomatoes",
-      "image": "https://gourmetgarden.in/cdn/shop/files/GG_Tomato_a7704689-80fa-483f-bf19-3e39c1ae985e_375x.jpg?v=1721720174",
+      "color": "green",
+      "description": "Fresh green RidgeGourd",
+      "image": "https://gourmetgarden.in/cdn/shop/products/Ridge_Gourd_2262f87a-f2df-403d-8550-1a66054da403_375x.jpg?v=1703765816",
       "id": "845b"
     },
     {
-      "name": "Tomatoes",
-      "price": "50",
+      "name": "BottleGourd",
+      "price": "20",
       "category": "vegetables",
-      "color": "red",
-      "description": "Fresh red tomatoes",
-      "image": "https://gourmetgarden.in/cdn/shop/files/GG_Tomato_a7704689-80fa-483f-bf19-3e39c1ae985e_375x.jpg?v=1721720174",
+      "color": "green",
+      "description": "Fresh green BottleGourd",
+      "image": "https://gourmetgarden.in/cdn/shop/products/BottleGourd_4a4f44c9-4009-4e1e-92c3-efbc16eb069d_375x.jpg?v=1703765823",
       "id": "1cb0"
     },
     {
-      "name": "Tomatoes",
-      "price": "50",
+      "name": "Ivy Gourd",
+      "price": "30",
       "category": "vegetables",
-      "color": "red",
-      "description": "Fresh red tomatoes",
-      "image": "https://gourmetgarden.in/cdn/shop/files/GG_Tomato_a7704689-80fa-483f-bf19-3e39c1ae985e_375x.jpg?v=1721720174",
+      "color": "green",
+      "description": "Fresh green Ivy Gourd",
+      "image": "https://gourmetgarden.in/cdn/shop/files/Ivygourd_5c07c03e-9b2d-4cf1-a765-684b65ded2b2_375x.jpg?v=1711615635",
       "id": "87a3"
     },
     {
-      "name": "Tomatoes",
+      "name": "Ring_Beans",
       "price": "50",
       "category": "vegetables",
-      "color": "red",
-      "description": "Fresh red tomatoes",
-      "image": "https://gourmetgarden.in/cdn/shop/files/GG_Tomato_a7704689-80fa-483f-bf19-3e39c1ae985e_375x.jpg?v=1721720174",
+      "color": "green",
+      "description": "Fresh green Ring_Beans",
+      "image": "https://gourmetgarden.in/cdn/shop/products/Ring_Beans_da721fa3-04df-487b-b812-8207b9fd6fff_375x.jpg?v=1703765703",
       "id": "2ba8"
     },
     {
-      "name": "Tomatoes",
+      "name": "Cabbage",
       "price": "50",
       "category": "vegetables",
-      "color": "red",
-      "description": "Fresh red tomatoes",
-      "image": "https://gourmetgarden.in/cdn/shop/files/GG_Tomato_a7704689-80fa-483f-bf19-3e39c1ae985e_375x.jpg?v=1721720174",
+      "color": "green",
+      "description": "Fresh green Cabbage",
+      "image": "https://gourmetgarden.in/cdn/shop/files/Cabbage_1_74ece69f-95f6-4e0b-8310-24092f97c433_375x.jpg?v=1710935727",
       "id": "e48c"
     },
     {
-      "name": "Tomatoes",
+      "name": "Coliflower",
       "price": "50",
       "category": "vegetables",
-      "color": "red",
-      "description": "Fresh red tomatoes",
-      "image": "https://gourmetgarden.in/cdn/shop/files/GG_Tomato_a7704689-80fa-483f-bf19-3e39c1ae985e_375x.jpg?v=1721720174",
+      "color": "White",
+      "description": "Fresh white Coliflower",
+      "image": "https://gourmetgarden.in/cdn/shop/products/Coliflower_6a16116c-0be3-4ee5-b312-553335dbba3f_375x.jpg?v=1703765855",
       "id": "a7b2"
     }
   ],
-  "fruits": [],
-  "oils": [],
+  "fruits": [
+    {
+      "name": "Malta_Orange",
+      "price": "100",
+      "category": "fruits",
+      "color": "orange",
+      "description": "Fresh orange Malta_Orange",
+      "image": "https://gourmetgarden.in/cdn/shop/products/Malta_Orange_6e904bad-15fb-4635-9ec6-9a767ee5e4c1_375x.png?v=1704445204"
+    },
+    {
+      "name": "Hass_Avocado",
+      "price": "100",
+      "category": "fruits",
+      "color": "green",
+      "description": "Fresh green Hass_Avocado",
+      "image": "https://gourmetgarden.in/cdn/shop/products/Hass_Avocado_499b237c-6fc3-46de-a3a0-ac91c3709d24_375x.png?v=1704445213"
+    },
+    {
+      "name": "Guava",
+      "price": "200",
+      "category": "fruits",
+      "color": "White",
+      "description": "Fresh white Guava",
+      "image": "https://gourmetgarden.in/cdn/shop/products/Guava_50375ad9-7d25-423a-9481-a5e247751b74_375x.png?v=1704445209"
+    },
+    {
+      "name": "Muskmelon",
+      "price": "100",
+      "category": "fruits",
+      "color": "orange",
+      "description": "Fresh orange Muskmelon",
+      "image": "https://gourmetgarden.in/cdn/shop/products/Muskmelon_acc42aa0-b3b9-4ab1-899a-3a25f395ea33_375x.png?v=1704445211"
+    },
+    {
+      "name": "Watermelon",
+      "price": "50",
+      "category": "fruits",
+      "color": "orange",
+      "description": "Fresh green Watermelon",
+      "image": "https://gourmetgarden.in/cdn/shop/files/Watermelon-Kiran_5b43816c-e659-45a6-8817-c0fa1b24e4ef_375x.jpg?v=1710822792"
+    },
+    {
+      "name": "Green_Kiwi",
+      "price": "100",
+      "category": "fruits",
+      "color": "green",
+      "description": "Fresh green Green_Kiwi",
+      "image": "https://gourmetgarden.in/cdn/shop/products/Green_Kiwi_a3a8b63a-dd84-4945-9a4f-2f0122972027_375x.jpg?v=1703766300"
+    },
+    {
+      "name": "Apple",
+      "price": "100",
+      "category": "fruits",
+      "color": "red",
+      "description": "Fresh red apple",
+      "image": "https://gourmetgarden.in/cdn/shop/products/Royal_Gala_Apples_b562ad89-fbfb-4bab-9b00-5f6270006849_375x.jpg?v=1703766296"
+    },
+    {
+      "name": "Papaya",
+      "price": "100",
+      "category": "fruits",
+      "color": "orange",
+      "description": "Fresh orange Papaya",
+      "image": "https://gourmetgarden.in/cdn/shop/files/Papaya_b8f6eb90-007d-4dca-8896-4f1f2646d714_375x.jpg?v=1710934577"
+    },
+    {
+      "name": "Pomegranate",
+      "price": "100",
+      "category": "fruits",
+      "color": "red",
+      "description": "Fresh red Pomegranate",
+      "image": "https://gourmetgarden.in/cdn/shop/products/Pomegranate_f0f54651-53fd-4628-abd6-457bfd7042b1_375x.jpg?v=1703766285"
+    },
+    {
+      "name": "Bananas",
+      "price": "100",
+      "category": "fruits",
+      "color": "yellow",
+      "description": "Fresh yellow Bananas",
+      "image": "https://gourmetgarden.in/cdn/shop/products/Pachbale_3b962d9e-697f-491f-b524-e61510438786_375x.png?v=1703766279"
+    },
+    {
+      "name": "Dragon_Fruit",
+      "price": "200",
+      "category": "fruits",
+      "color": "pink",
+      "description": "Fresh pink Dragon_Fruit",
+      "image": "https://gourmetgarden.in/cdn/shop/products/Dragon_Fruit_18f98551-dcc3-4407-9ca5-b360c23f0683_375x.jpg?v=1703766276"
+    },
+    {
+      "name": "Pineapple",
+      "price": "100",
+      "category": "fruits",
+      "color": "yellow",
+      "description": "Fresh yellow Pineapple",
+      "image": "https://gourmetgarden.in/cdn/shop/files/Pineapple_7412e117-8b3e-4f9a-986f-2cc9679ea7aa_375x.jpg?v=1710934690"
+    },
+    {
+      "name": "Chiku(Sapota)",
+      "price": "100",
+      "category": "fruits",
+      "color": "darkgrey",
+      "description": "Fresh darkgrey Chiku(Sapota)",
+      "image": "https://gourmetgarden.in/cdn/shop/products/Chiku_Sapota_a7150e34-8e90-4a13-a680-cf5fcb31dfac_375x.jpg?v=1703766268"
+    },
+    {
+      "name": "Blueberries",
+      "price": "100",
+      "category": "fruits",
+      "color": "blue",
+      "description": "Fresh blue Blueberries",
+      "image": "https://gourmetgarden.in/cdn/shop/products/Blueberries_2f8e22a9-c06d-4e72-b43a-998644aced4b_375x.jpg?v=1703766264"
+    },
+    {
+      "name": "Plums",
+      "price": "100",
+      "category": "fruits",
+      "color": "red",
+      "description": "Fresh red Plums",
+      "image": "https://gourmetgarden.in/cdn/shop/products/Plums_fb37d693-96fd-44ff-9c6e-dba8ef9cb648_375x.jpg?v=1703766245"
+    }
+  ],
+  "oils": [
+    {
+      "name": "Ground-nut-Oil",
+      "price": "60",
+      "category": "oil",
+      "color": "yellow",
+      "description": "Fresh Ground-nut-Oil",
+      "image": "https://gourmetgarden.in/cdn/shop/products/Ground-nut-Oil_375x.jpg?v=1705579675"
+    },
+    {
+      "name": "Coconut",
+      "price": "60",
+      "category": "oil",
+      "color": "White",
+      "description": "Fresh Coconut",
+      "image": "https://gourmetgarden.in/cdn/shop/products/Coconut_375x.jpg?v=1705579677"
+    },
+    {
+      "name": "Garlic-Infused-Olive",
+      "price": "60",
+      "category": "oil",
+      "color": "yellow",
+      "description": "Fresh Garlic-Infused-Olive",
+      "image": "https://gourmetgarden.in/cdn/shop/products/Garlic-Infused-Olive-Oil_375x.jpg?v=1705754382"
+    },
+    {
+      "name": "Basil-Infused-Olive",
+      "price": "60",
+      "category": "oil",
+      "color": "yellow",
+      "description": "Fresh Basil-Infused-Olive",
+      "image": "https://gourmetgarden.in/cdn/shop/products/Basil-Infused-Olive-Oil_375x.jpg?v=1705754384"
+    },
+    {
+      "name": "Fortune",
+      "price": "60",
+      "category": "Grains",
+      "color": "yellow",
+      "description": "Fresh Fortune",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMTEhUSEhIVFRUVFRUVFRUVFxUVFRUXFRUWFxUWGBcYHSkgGBolGxUWITEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OGhAQGi0fHyUtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAQIAxAMBEQACEQEDEQH/xAAbAAACAgMBAAAAAAAAAAAAAAAABQQGAgMHAf/EAEUQAAIBAgMDCQMJBwMDBQAAAAECAAMRBBIhBTFBBhMiMlFhcYGRUqGxFCNCU3KSosHRBxUWYoKy4STC0jNz8DRDVWPx/8QAGgEBAAIDAQAAAAAAAAAAAAAAAAIDAQQFBv/EADYRAAIBAwMCAwYFAwQDAAAAAAABAgMEERIhMUFREzJhBRQiM3GBFSNSkaFCYtEGweHwQ3Kx/9oADAMBAAIRAxEAPwDt8AIAQAgBACAEAIAQAgBACAEAIAQAgBACAEAIAQAgBACAEAIAQAgBACAEAIAQAgBACAEAIAQAgBACAEAIAQAgBACAEAIAQAgBACAJdr8oVoVVpc2WJUNe4AFyRb3TWrXCpvGC6nRc1kmDaHRzZeG68rd36DwfUW1uUZU25ofe/wASt33oWK29QxfKbm1DGkT3Bv8AEz793iFbZeMk3YG2lxSsyqy5WykNbsvoR4zZoV1VWUsFVWk6bwxnLyoIAQAgBAPGYAXJAHadJhvAwQqu2KC76gP2bt8BKpV6a6k1Tk+hpG36HtH7rfpIq6p9yXgz7EijtWi26qvgTlPvtLFVhLhkXTkuUTJYQCAEAIAQAgBACAEAIAQCk8qqbNjFKgsBTUG2tjmY2PfYg+c5d5jxF9Det/lv6j1aZ5saHdK3wQzuIMXh3v1W9DNd8mwnsa9tYdzTFkY+AMSMwe4x/Z9TK06oYEE1AbHQ2yjXwnRsGtLRrXfmRa5vmoEAIBpxWLSmLuwHZ2nwG8yE5xgsslGLlwIsXt920pLlHtNq3kNwmnUu+kS+NFdRc6M/SqMT3sfgOE1JVJS5ZcklwaHxFNd3SPulRPDZr/ePYgjUZ0Hq4tG6yDyjWNJNwOIZP+hU040nuVPcOw+E2aVxKL5yUzpp8osmzNpLWBFirr1kO9f1HfOjTqqoso1JwcXuTZaRCAEAIAQAgBACAY1agVSxNgAST3CYbSWWMZKNiMOleqarIMzHzAGgBtvNpxatRzm2dCK0RwMfkdl3L+P/AJRqeCO2Ra+CS+73t+srLcmGKwasuo/E/wDyjLGSNsTGfJKpZUuGGVhc3sN1i17S+hW8N5I1aetFqp8pAf8A2j94Ta99j2Nb3eXczPKH/wCo/eH6R77HsPd33I1flE5FkQL3k5vdaRlebfCiUbddWKmJY5mJZjxOs05Tcnll6wlsZ1qq0x0tW4L+sMxyQatZnNzu7OEhnJNRwaKmkEkQ2xQBkMk1E30aoMxkNYJVPtEymQGVCuXKkHLWXqPwb+Vu0GbNOo08oonDbctGyseKyZrZWByuvFWG8eHEHsnVpVFOOUaco6XgmSwiEAIAQAgBACAI+U2Ksq0hvbVvsg7vM/AzSvKmI6V1NihDLyLcFTnMijYkxhX3S18EEKam+VFqMKjcJkYIxwwgzk9FKZyMnvNmAbQsBs9qVhTXMdWPVH5xnBFLUxUrFmuTcnjIlmMEmSMEDE5nYU0F2YhVHaT8JiMXJ6USyorLLZs7kTh1Uc8DVficzKoPYoBGnjczqU7SmlvuaU7mbe2xH2pyRVBnw2bTfSJuCP5SdQe4+6U17NYzDknTunnE+BNQN5zeptMkqJNEGM8HjcjitwNqdcf2VPIn0Jm3b1dMvqa9SnlFsnVNQIAQAgBACAEApOLxHOVXfgWIH2V0H6+c4leeubOhTjiKGmzqUQWSEzfjU0k5xwRiJmOs1y4xvAAmMhI9RbmYyZPWHZJZCAJcgSRhibaNfO5tuGg8BK5MtgsIzoCZRg2VWsJkwMeRGDz1qlYj/pjIv2m1Y+lvvTdsYZbmUXUsJRLrOkaQQCo8pMBzdQVVFlqHXuf/ACNfIzk3tLS9aN23qalpZBAmnkvZuoWvlbquMjee4+ssiRl3LFydxBalkY3ekTTbvy9U+a29869vPVA0akcSGkvKwgBACAEAxqGwJ7AfhMS4C5KBhDoJ598nTxsPMBVl1NlUkGOrm0TkIxFLPKMl2DwPGRg3Yaizmw0HE8AJmKyRk8EiqR1V3cTxP+JLYweKkyYyaq7ZVqN2Lb1hmeXgrqSovZMpGTIGOIbSAi28hqVsKG9t3b0OX/bOvaLFJGjcvMx/NkoCAQ9sYXnKLrxtdftLqPhbzlNenrg0Tpy0yTKhh9QJw49joszZJMxka7Dr2r/96kD/AF0zY+5vdN6zlvg1Ky2LHOia4QAgBACAYV+q32T8Jh8GVyUDBnQTzzOmOMGZdTKmeY0yMzMRWZSWm3C0S7WHn3CZSbexFvAwdgBkXdxPtf4lr4wiHO7MKdO8xFBsl06VpPBHIq2kfmqh/mAkXwTh5ivpKkXktDJkDXiTpMMlEvPJIf6Sj4E+rNO1bfLRza3zGN5eVBACAUx6WSrUTsdreBNx7iJwqsdNSSOjF6oJmZWYwYDCParhz2VXQ+DofztL7d4qIrqLMWXCdc0wgBACAEA8dbgjtBHrMPjAOe4cWJQ71JU/0m04E1iTR008rI3wZkqZWzzFxMzEXKhJsN5OkpW5ZwNMoRcg3/SPaezwl3Cwirl5MEW8wjLZPpUbSxIg2Y13AiTwEJscfman2hK3wWrzIQpK0XMkpJkDCvugzEvHJBr4Sn3Zh6O07Fq80kc6uvzGOZsFQQAhgq21ltiW7wp91vynIu1isb1H5Zs5mQwMkJhZ6fdiaXvImaPnX1E/K/oXIzsmiEAIAQAgHogHPMQt6lQjfzj/ANxnAreeR0oeVDDZ1W474gzEkbMUYmzCChT5sZj123fyr2+JmEtK9Q/iMVFzMGRlhKGkuhErkzLEVbSUmEhViK95S2TSIzdKnUHdf0mFwT4aEKSCLWSUMmQPKsGUW3kJVvQZPZqH0YAj851LKWaeDRuV8ZY5uGuEAIBWNu/+p/oX4tOTe/NRu27/ACydSW4ER4IvkUVNatMduJT8Ov5SFL5i+pKT+FlwnZNIIAQAgBAPRAOesfnH/wC4/wDcZwK3nZ04eVG2mcjBhuOhlaeAxnYdc7hr4ngJbtyQ9CK9UsSTvMry28ksYRP2fh76mW04ZK5yJteoFEulLCK0ssTYnEXmu2XRRAq1JWWJHuBfpWO5gR6zMWYkJ6qZWKngSJjGC1bo3UjJIizJhMhDjkViMtZ6ftrceK/4J9Ju2M8NxNa6jsmXadM0ggBAKrttr4o9yoPifznHvXmqb1BfAMaB6I8JiL2ItbijDDNiMMO2pUqHyRrflJ26zURmptBlwnWNIIAQAgBAPRAOeN13+2/9xnAreeX1OnHyomJTzKR3SvlB7MwNYkBeyYzkzjqSMLSuZOKyyEngeCyJNyOIIo3bE+NxNzNWcssujEWVqkrbLERyZgkeq1iD2QuTDWxjtml0hUG5x7xvk5CD2wRqJgk0b7RkiYUKxpVEqDejA+I4jzF5OlPRNMTjqi0dLoVg6q6m6sAQe4zupprKOW1jYzmTAQCktW5ytUqcGc28B0QfQTg15aqjZ0YLTBIbVKlkPh8ZJPYrxuQtkC+OA+qoH1YqPgTNm0X5j+hGt5C2zpmoEAIAQAgHogHOr9N/tv8A3Gefq+dnTivhRJapYW7ZWZweUReEgx3s6jYXM2acepRORr2niuAmKs2ZpoSYitNcuSE+Lx1t58uJmMlsY5NVLaIvYkr4jT1jJmUBmpjkr4JdNOcpmnxHSX9JYuMEHs8imlppMFrJawQMKqQSTHXJfbIpfM1DZCeix3KTwPYDOha3Cj8MjVuKWfiRcwZ0cmkJeUm0xTQ01Pzji2n0VO8+PZNa6rKEWlyX0Kbk89BDgUtacdI3GTme9h33PgNZYit7GvkU2fEYmrw6Cj1Y/kJv2S3kyq52UUW6b5qhACAEAIB6IYOcKek32m/uM8/V87OpHhGQNzKzLYwwdK5k4rJXIdVXCJNmT0xKkssruKr3N5qN5L4rAmx+JtoNSSAqjexOgAmFu0kWxwt2RKuCem1qqlXO/MLeS9o8JVVU4vElgnGal5Xk2HCgjUXv/wCaShTaM5MdmYnKeaY6fQP+39Jsxe2SMo9RtRqZSCN4liZU1lHu06A0qr1W39x4yTMQfQ10WmDJtKwDW1OZyZN2HxNRBlWo6jsDED0lirTWyZCVOL6GSISbnUneTqT5yDbZlbcEtTMIMxxmIyUnfiRkXz3yxcFeMvBO/Z1T+YqP7VUjyVV/MmdKzWIZKLp/GWubZrBACAEAIB7AOaFtW72b4mefqeZnUjwjfh1lYY82ZT4y+ktymbMNr4jgIrPLMwRXcTVmtkvQx5D7K51zi3HRUlaIPE7mqfkPPsnTsqH/AJH9jXuqmFoX3Lpi8GlVctRQy9hHvHYe+dCpThNYksmnGTi8p4KZtzkxUpAtQLOm8pvdR3e0Pf4zi3Ps9x+KG67G9Suk3iZVHphhY+R7DNCLcWbuxLwONLHI/XG4+2P1lyeeCEo9Rvg8QBdG1VtD3d8si+5S11RoxOGNNu1T1T2iZxgznJtQzAM8kA9CQDcsAyAvoOMykRb2FHKTFAlaSnRN/ex3ybZmnHqy48hadsHTPtNUP4yPynWtlimjRrvNRj+bBSEAIAQAgBMA5jTFyfE/GefqeZnUjwhjhlkUGPqHRS82Y7RKHuxDtGtczXk8suihOMM2IrJh00LnpH2UHXb00maVN1JqJOUvDi5Mse29uJsw2LGoGRRQwygDIqgKWZuAvfXW9+6dmpNUopIqsrCreSeNl1ZG2X+0RTRatiKYT54UkVCWJ6IZmN7aAHWasLqa1at8dEbVx7GlGqqdJ5eMsugxIKCouoIuO8TchWjOmqkeDjuDUtLKztjYtLE5q2Htzg66bsx7xwbv3GaFxbQrxc6XJs0q0qXwy4Kfi8EGsACrXsOFiPgZxacmm0zfT+4UMYVOSrodyv8ARbuPYZsRknwYceqHWGxQtkqC6n1HeJbGXcpcd8o9qYYpqDmQ7iOHjMtGFLOx6jzBIzEAyBgHuJxAo0y56zCyD85OOxDzMqNdybk7zCL8bHUuSK2wdD7F/Uk/nO1QX5aOVV87G8tKwgBACAEA1Yytkpu5+irH0ExJ4WTKWXg5vh556e7Omhtgk1EzFZZGQyx1Sy2l1R4RXFblZxtTeZrNmwh7+z7AWRsSw6VU2S/Cmpt7yCfITq2NLTHW+pqXc8y0ditbWqom26jYq2TIppZuqPmgEPhnFTzldzJwqqXKO5bRlP2Yo0ec7/v/AIwV/C4qiuy61OoQar4hWpj6QyqmZ+4WzDvvaVQaTn9sHQnSqO+pyj5VHfsdV5LUHTAUFqXzc0twd4uL2PfNqjBwo4fqzy17OM7qbjxkr+LqtSrc5SbKw336rD2WHETjOtKlVzEtUFOGJG/bmFTEUvlVMFGX/rKNStvpada3aOGvC03a8IV4eNDnqV05unLRLgW/JGrIQyg5gL2sQWGq1FPeLjuPjNGEN8ovclHqQcXgK2G1salIX+3THf2i1u7XhLHFrkkpxkSdn7S0ujXHEfqOEJ45IuAwWtTbeCh7V1HpJ5yR3XBmtEcKi+ekGHJmbOlMXJzngBu85JLBjdle2niWqNdv/wAEFsVhCyrCMnV+Sh/0dD/tidqj5Ecur52NZaVhACAEAIAn5WVsuGftYqvqbn3Ayi5limy2gszRTsOJw2zoMcbOXWThyVyZ5tSrE5ZEEVrGo1Rkop1qrhB3AnU+QkYR1zUS5S0pyZ1LCUFpotNRZUUKo7lFhPQRWlYRyW8vJSv2kV9n9FMTnNYC6czbnVU+0T0QpPBt9jbdNa5lBLfdna9jwvNTlQ2XXPBStkYzZtGotR6eJqlSCBU5rICNxKqelbfrfwmlGo4vOj+TuXNC/rQcVKMfpk7FQxa1aK1UN1dbqe4zeVVVaWtbHjpU3TqOEuUU3als5uDPN3GNbOhDgw2VXNGpziI2Xc4LAKy999NOEttK7pSz06mKtPXHDLTs6jTRrqRkcZ6Z0tY8NOz9J2KcKcJ56Pg0ZSbWOqNO3nXhbTfu09xt42lF7KD8pZRT6lYw/J1K7tlLUnyllqKVZSQRoQNCDfumtawVWbi+xfOtKCTE2z8aSQlQZWPVPBu7uMr+hszhjgaUzMopZlVGkmgK8SJkkiDVEyZR03kNVzYKn/KXX0c/kROxbv8ALRzbhYqMfS8pCAEAIAQCscuavRpJ2szfdFv900b6WIJGzar4myv4cTkm2+Bvg9BLI8FbIG0XkGTisHvIzC85i6lY9WguRftvvPktx5zesKeZOfYrupYgo9y+rOqaBySqlEbZrfLcrUy5IzWKElVFMN4DSx4icqvNwqqTWV1PWQ8SXsyKoZT6l2Wlsk6BMESeGSl+k2Hc2/V/wcNq9X6v3Y+WgophaaqqhQFVbBQANAANAJe0pw+Dg0tT1ZkUraoZahBBB7xv8O2eYu4ShPDWDpUmpLY04egznojO3aeovieJ7pTFMlKWB1s6pmVqIbO6nMjHcWHXVfKdK2n4sJUs8cf7mtVWmSn35FtbF57ZiabkkBvohhoLjsK2B4TTlUcv+9S5QxwZcnbri0DDKTnBA6jHKTcdh03TZ9nTXvC7kbn5ZVNs0LvbdZ66g/ZfT4SLlipL6nRppSgvoifgMRnRWO8Eq32hx8xYyZqSjh4JrHSSRAW4kTJJC+qJJGS9/s1r3o1U9mpfyZR+amdKzeYYNC6WJZLfNw1ggBACAEApfLWpevTXsp3+8x/4zmX8t0jctVsxbQnONl8DWj1ZYnsVinaVW1ydwBPpIFkdyychsJzeDRj1qpNVv6z0fwhZ2rWGmkvU0bmWqo/QsSzZKDjPKYYH5ZiOcOLD862cKKOW+nVvra1iL9s5NeT8R/D/ACex9n++e7Q8PRjHrki7PwGzazima2KpljYFxStc7tQDYynxEvPF49GXV63tClHVpi/3/wAl85cGrQwVBMPWdWFRFFTOFJVaVRmLMdLWUsb6aTouKhRSpPboee9n+FUuZSrrbDyhLgtv44Dm8bhlxFPib00rJ36HLfUH6Omt5CSdRaasco269rZve3m4vs84HWx61GpRdsNV5yk2pG6rSJFiGG/dbXu85yri1dODlS3X8o0qtOpSqaay0v8AhmrZ55thbehHnfX0I0nKjXdOpCS6EpLVFo18oaAz5V3OQ6fZYEn01m1cxUKja4luiNBtx+mxt2NiL4uil7kZrk8bI1r99pb7MTlXUmYuFikytbebTMONbEH+7/ES3qz+v+50qHCXojDY72Z09pRUHlofj7pZF5RRXjh5GwOksRrEXEiZMoV1RMomizfs2xFq9Wn7dMN5o1vg837J7tGpdx2TOhzoGiEAIAQAgFC5VvfFnuRB8T+c5F7vUOhbL4CNh5pFjGIayyXQgV/bRLLkG+o6Ux4uwERWXgth8O/Y6fRpBFVBuUBR4KLD4T0KWFg5TeWbVMyYEe0Ds53Jr/JXdeiTUFJmFuBvr5TVqXFBSxJ7/Q3KUbpR/L1Y9MlB/aTTwASn8lFIVLnMKAULkynVgul81rcd8oqzoyjmB6D2L705y8bOnHXv9x7yrwlRsBg1dKjEMDUCI7sP9PVsGCa2LFVO7faSp03GhGLOZbVYxuaji11xnHf1KquHFwThsebHc1PENdL6qdbEm7W4WOoJjGOjOlKbeVrp/vEXYaji6FbncNQxVMg9G9Gqej7Di3THA9u8W4V6Zp5ijfnUtq9HRXnFv6rnui9Yeu1alz5oPRYELVpujplbgyFgLofdOV7QstK8aCwuqPOyiqVTw1JSXRoMXUvQRzvpO1MnjlYZ1+BEqa8S2g+sXj7dCEPhqOPc08lnHyg1D9ClUqHyFvzm17OWKmeiQud4pepWtp1PmqN+IqufMp/ma1PLlJnVhHEmuxlg6lnoN7QKnwa4HvPultPlo17hDtJamabNGI3SRhCutCLMjHkfXyY2ieDFkP8AUpt7wJtWrxURTcLNNnV51jmBACAEAIBzvlE18ZV7io/As414/wA1nRt/IjDDzTLGTqjaSWdiONxTSXNisKvbXDfcGaW26zUj9TM3+XJ+h0yd45Yv2rt3D4bKK9VUL3yg31y2udOy49ZTWrRpLLL6FrWr58OOcHK66bNxWJrO1SthlZmYk82UdixuyixIv1rHtnNnUTnlr4X2PVU1f21CMUlP98ok4ZdkYR0qCpWxbBrqthlUjcSoADG9rDXwliq00sxTb9diuq/aVzBwklTXU6RtXaxpUg+Q52ViFNujlplzm11ta2nEjxnQhJuKbWDx1aXh8bkGvyvpqobm3OY9EKVY5QCbsAbo2nVa3uNp5KncJLODbW5R5KtSm1MmzqlPKVzMWpI4DKTcC7EZt17DfGTLr4bTRpq8qaTBlNNm6BdhdD810rsdei3RPQOu7yjNRlFxayZVyk9luJNo4U00xVH2Vp1VPaq1Br91iPKcBUPC8Wk/qjsRnqcJ/YV4SrzWExdc72RKK27XN2A77Wk7daaU332NnGutCPbcr+3750oDelOnTb7Vs7+91HlKKSwsm/Secy7smVktSWoPo1EKn+Veip8Cbt/VIQfx6SqsO36xlxpNGirJmBZXhE0Y4Crkr0n9mrTPlnF/dLqTxNEKizBnaTO0ckIAQAgBAOb7bP8Aq632/goE4l381nSofLQUJqljJdVtJkiiJsRb4/Dfyiq34CJtWazURGu8UmdFE7RzRbtzYFDFoq10Jym6kEqyk6GxHA9khOCnszZtburbS1UnhnPOTHJbBV69ak2IarkJARUeiUszAgsT0t1vKc6Hh+Lol9j0N57Su6dKE1HTnrs8/wCC57L5C4KhUFVabMym6847OFPaAdL983o0YJ5Rxq/tW6rQ0Tlt6LBN2/jmpZGWmrqBVaoDociJmOU2PS7uPaJazkVZOOMLIr/iRSHPyZVAqb3ZVW4DnpnKSlToaC29hrGSpV0/6TQu36zOG5mmwa5AYFXNNflTWJymxHM0+3XszaY3IqtKTzgtlCkjDMEUZhc9EXOYX19ZI20lzgVcqcGDSqVeK0KqnvBGYehX3zSu6S0ufZM2KE8SUfVFGxgAp4ag3VUNjsR9ndRTxNgLTnzWijGHV7/udSllynNf+qKlSFTEYrKNWdizkcMzEsR5k28pXJqMco6O1OP0Ltt7Z2XCViBYUhTHnmUW8gfeJTb28nqqPoc2VfM0u5gx1v2gH1AlnUizTWMlkwLq0yTRCrNbXssfQyyHKD4O5KdB4TtnGPZkBACAeiAc12z/AOrrfb/ITiXfzWdKj8tBSmqWMkVTpBg18mhfaFPuoVD77fnNyx+aV3HyvudBE7JzjNYByLG8lselepW56jTZ3dg5rhGKliRfo9lvScqvSWr8xr0yeso+0bSVGNJwk0l2zub9m7O2uzBqeKSplIJHPXFuwgruPbK4UY1k/Dlx2b2K61x7PjFqVJr7f8nRdoVaihAr00J6zP3Zb5Rx0ze6dampKKUnlnk6r3+HYhU8biCelUwy9199uiWvfdmG7eN2+T3KlKXXB7TxmIXPnqYexuUa91UjIMhAsTpcnxEGVKXXHoSFpY0fTom5G9WsPatbwG/tPdMEsVe6MsdQZsNUSu46QbOw0VULa2PcnwldWOqDTL6WpSXc5hykx3XNrNWYVHHFUAth6Vu0LZiO0rOHKWueT0NtDCXZf/eo05E7Op0iGKslesisFexsSLEqeIBBNt4uBwmIYqVcL7FFzVk010NvK/aIajUwyN0aersvVquHsy37t5HaCPozarVNCVKPHU1aFPL1y+xpvop/kT+0TU6l5HrGZMC+rJE0RaiXIHaQPU2k4coxLg7iBuncRxj2ZAQAgBAOccoFti632lPqiziXnzGdKh5EYU5qlhvqnSDBjyaNtoJ30Kg99/ym7Y/N/chcfK+50BTOwc0Kj5VJtewJsN5sN0hOWmLZmKy8FM2dgzjqr1HfodFrpbUEWVRfgLH0nnLWg76rKpV2x/3B26tb3OEYQW5G29gWwVRKlKo5DBranMMtrggaMuo0tJ3Vs7OSlSlhMttayvIShUSyi17UrJamxWm9xcFny26puuhvw909DF5SZ5uqknhogmrRAA5nDjLew50C173I6Omp98lkqzHsiQMKGVcmFosg1U85pw16vao9BMEtOVtEZUMUdedCUzobZw2h0vuFtdJGVSMXhvBbBSa4EXLLHWUUgU1BYpUdEFXgtPVhoTqTwCkWN5qXuqUVGJu2kMy1Yz9uCm4vA0LfKK6MW5wuyVagWrl4mnTvaoVN+iQQy2ykbpqUaC0tSWH3/wAF9xc16cU6azFc4XTuNjjKZslgwcgjECyrUDUnLCkQcyMuUEngQQbXF7qVnGlTa5fOTmz9oeLVio8PH3K5tNAlF0HBVIFx1RYZreOnHie2c2LbeWdpDdxov2E/tEl1KyLXMyZF9WZRI2bJoc5iKCdtVL+CsGPuBl9FZqJFdZ4g2dmM7RyTyAEAIAQCgcrqeXFsfaRG9xX/AGzkXy+M6Fq/gINMzRLiS26Aadltlx2FPbzqfgJm1ZvFVEKqzSkdBVp2zmmpNoUWdqIqKai2DICMy5hcAjtsbymVaGvw29yzwZqKnjbuUAYfF7NqHm8rUm42ZlOumZQLq/gdb8ZyXGpaz23yd/xLa+gtfwyRKoYTFY6sjYhHpot79AoFWx0AbXMx8badky6VW6qYqLCK3Vt7Ok1ReqTLvUwgOUBmQKLAIbC2lr+FvfOykksI89L4nlmttnr9ZVG7c54aTJF00zbhsOEv03a4A6TZreH/AJwmTMY4FXKKrTKlXpOzZTlKi1wFLEBrEEaAWPbNO4VOo1Ca+5fGU6cXOPQoWN5P/KqrVvnmNUmxAJp2XogK5p6ILGzHXS2QXzRK3Unybdr/AKjqUaShTpr6933NJ5EnU5a+nhcWUsAt6fzmgtvXUhf5pn3Vdy1/6lrYcfCj689fuZYbYZw7NXs1lR1AcEMGZQGbVQcqozXIBswABaQuH4dP+Dz3s+zTuta43eCJtfWkNRoFCWsQwJ1seAvr3ajcdeTT5weoa3yWHECxI7LD0EdSpECvJGSDUEySQ85AYTPi8/CkjN5t0R7i3pN2zjmWexrXUsQwdMnTOcEyAgBACAUzlzR+dpP7Ssv3Tcf3Gcy/XDNy1ezQkozmm2SxugwLq9Tm62Gq8ExCA9wfQy63eKiZiSzBo6HmnfOWjmnKGliMHtJ8alE1Fc5laxZRmRVZWK9Ugrx4Gc65pz15j3zk9NZ1KFzZqhOWloW4blPikxdTFim5NTfSPOc2NABbTTd7zKZRm5Kf9S6m1KxtpUFR1LbrlZLDgP2h4hqiLUwllZgpKipcZjYbx3yx1rjlb+mDn1vZNvCDlGpv9UdCzzpJ5R54A8yMGqviwvAsx6qjUn9B3yqpU8NZ5fYlGOoovKDHc5WUVSSEa5Sk6Aqwva9QMctvZFm4zj1JVPF1VP2T4OnSUVTaivuzcuLpMQtVMvCmvziKN18zEXcX3nj32AF1O+kpfGtjVq2MZrKbNAqBFJr0mZix1FRXZh1c1TILAOT1RpY6kXIN9W8Udo7spXsyHCk33ZEq7QUggJkva7hjVtrYKUI8LnhoL2AtpV7p1o6cG3Qs40Z6k+gvrqWejSN7tWVjxAA1bLfdpru+Eop45RtyHdc3JPfCKyDWEkZIdRZlGS7/ALOcHlo1Kp31HsPs0xb+4tOtaRxDJz7qWZYLdNs1ggBACAYsYAl5SYTnaRH0lIdfLePME+6a9xT8SGC2jPRLJUqdKcNxwdHJJRZgwQtpYIVEamTbMNG9lgbqfC/xmYvDyZTwM9kcqktzWLIo11FiW0Spb6atu17PSdqjdRkt3hmnUt5J5juhhV25QNsmNopvvqjX7Dv0lrqw/UQVKS5i2efv2n/8hh/Cy938/j6yLqx/UiXh/wBjPV27T0vtCge3qi/4tJnxY/qRjw/7GbX5RYRRc4mlYdjBj6DUzLr01/UR8GfYr+1OUyuc1CsbAgjO1Omug+iL5zv1BE51xVb+KEmbdGjjaSIOL249QDPXp2PWVHKg33BimrDuvYX4zXdao+ZMuVGCey/ci/KKDDKatNLDUhUI7gLqdPDXjKlEm3JPKMHqIRrXpEHrDfc7gRc3v23tIYa4J5PEq0xl+fQEXsFOi37wBcd27wkWnh7GM5ZoxGOVTcvTqdYBEBscxHDXXQ8fpGTjBvoZYx2Rs91PyisCrZStCkxuyhr3duI0JAB11l2FCJRKep4RMcaStGURaizIItRTuUXYkADtJNgPWWwjl4DeFk6hsfDilRp0geooBPafpHzN52qcdMUjlTeZZJ8mRCAEAIBrY6QCFWOswzKKpthRTYtayk3PYCfhOdc27zqiblKrthminWB3ajgeBnNaxybKWTYSDMGMGipQVhldVYcA4DAeF90lqaBp/dlH6il90TGszlh+7aP1FL7ojWMsP3dR+opfdEaxlnv7uo/UUvuiNYyw/d9H6ml90RrG4fu+j9TS+6I1jcPkFH6ml90RrG4fIaP1NL7ojWNw+Q0fqaX3RM6xubKFJE1REQ9qqAfWNYw2eub6kzANVRhBlEOrWF7DU8ANTLIxctkHhcjTYmDyMKj6v9Ebwnf3t8J0qFDRu+TTq1HLZFpw1ebiZqsaUXuJIwboAQAgHhWAanwwMAiYnZKuLEyLiSUsCXEciUOtOo1Mn2dAfKVyoxlyicarREPJDEg9HEqe503+NrTXlY02Wq5ZgvJjGj6dA+TD85D8Pj3M+9eh7/DeN9qh+KR/Dl3M+9+gfw3je2j6tH4eu4979A/hzGdtH8Ufh6/UZ96XY9/hrGe1R/FH4d/cPel2D+GsZ7VH8Ufh39w96XYP4ZxntUfxR+Hr9Q97XYP4Yxft0fRv1mfw9dx736Hn8L4v6yj6N+sfh67mPe/Q8/hXF/W0fRv1j8Pj3HvXoejkpi/raX3W/WZ/D49x716G1eSVfjWTyU/mZlWEV1Me9egHkW561Yn3fCWKypox7zIkUOSGTcw9JfGmo8FTqtk6hsC30pLSQ1ZJtLZtuMkkYbJlOjaZMGwQAgBACAEAIAQAgBACAEAIAQAgBACAEAIAQAgBACAEAIAQAgBACAEAIAQAgBACAEAIAQAgBACAEAIAQAgBACAEAIAQAgBACAf/2Q=="
+    }
+  ],
   "spices": [
     {
       "name": "CorianderSeeds-Rajasthan",
@@ -122,107 +284,95 @@
       "category": "spices",
       "color": "dark",
       "description": "Fresh Coriander Seeds - Rajasthan",
-      "image": "https://gourmetgarden.in/cdn/shop/files/Coriander_Seeds-100_5d8d2c5a-38bf-4717-9927-59285173ddde_375x.jpg?v=1703955976",
-      "id": "aa46"
+      "image": "https://gourmetgarden.in/cdn/shop/files/Coriander_Seeds-100_5d8d2c5a-38bf-4717-9927-59285173ddde_375x.jpg?v=1703955976"
     },
     {
-      "name": "CorianderSeeds-Rajasthan",
+      "name": "Cumin_seed",
       "price": "30",
       "category": "spices",
       "color": "dark",
-      "description": "Fresh Coriander Seeds - Rajasthan",
-      "image": "https://gourmetgarden.in/cdn/shop/files/Coriander_Seeds-100_5d8d2c5a-38bf-4717-9927-59285173ddde_375x.jpg?v=1703955976",
-      "id": "fdda"
+      "description": "Fresh Cumin_seed",
+      "image": "https://gourmetgarden.in/cdn/shop/products/Cumin_seed-100_03a44103-92f4-49bd-a085-1984e3d4efc7_375x.jpg?v=1703766302"
     },
     {
-      "name": "CorianderSeeds-Rajasthan",
+      "name": "Turmeric_Powder",
+      "price": "30",
+      "category": "spices",
+      "color": "yellow",
+      "description": "Fresh Turmeric_Powder",
+      "image": "https://gourmetgarden.in/cdn/shop/products/Turmeric_Powder-100_486f91e2-fd4c-482e-81b3-277f6662be16_375x.jpg?v=1703766328"
+    },
+    {
+      "name": "Black_Mustard_seeds",
       "price": "30",
       "category": "spices",
       "color": "dark",
-      "description": "Fresh Coriander Seeds - Rajasthan",
-      "image": "https://gourmetgarden.in/cdn/shop/files/Coriander_Seeds-100_5d8d2c5a-38bf-4717-9927-59285173ddde_375x.jpg?v=1703955976",
-      "id": "d55b"
+      "description": "Fresh Black_Mustard_seeds",
+      "image": "https://gourmetgarden.in/cdn/shop/products/Black_Mustard_seeds_-100_078a2a35-988a-4c09-a836-d30620d23c29_375x.jpg?v=1703766145"
     },
     {
-      "name": "CorianderSeeds-Rajasthan",
+      "name": "dry_red_chilli",
+      "price": "30",
+      "category": "spices",
+      "color": "red",
+      "description": "Fresh dry_red_chilli",
+      "image": "https://gourmetgarden.in/cdn/shop/products/dry_red_chilli-100_1395bdfc-9ec8-4070-999e-c660d7109230_375x.jpg?v=1703837415"
+    },
+    {
+      "name": "Black_Peppercorns",
       "price": "30",
       "category": "spices",
       "color": "dark",
-      "description": "Fresh Coriander Seeds - Rajasthan",
-      "image": "https://gourmetgarden.in/cdn/shop/files/Coriander_Seeds-100_5d8d2c5a-38bf-4717-9927-59285173ddde_375x.jpg?v=1703955976",
-      "id": "f561"
+      "description": "Fresh Black_Peppercorns",
+      "image": "https://gourmetgarden.in/cdn/shop/products/Black_Peppercorns-100_cd88b381-8a56-49fe-9846-66f395ff1bad_375x.jpg?v=1703766150"
     },
     {
-      "name": "CorianderSeeds-Rajasthan",
+      "name": "Star_Anise",
       "price": "30",
       "category": "spices",
       "color": "dark",
-      "description": "Fresh Coriander Seeds - Rajasthan",
-      "image": "https://gourmetgarden.in/cdn/shop/files/Coriander_Seeds-100_5d8d2c5a-38bf-4717-9927-59285173ddde_375x.jpg?v=1703955976",
-      "id": "c430"
+      "description": "Fresh Star_Anise",
+      "image": "https://gourmetgarden.in/cdn/shop/products/Star_Anise-100_f8aafe3b-03fe-44fe-b609-15009f500f6d_375x.jpg?v=1703766324"
     },
     {
-      "name": "CorianderSeeds-Rajasthan",
+      "name": "Coriander_Powder",
       "price": "30",
       "category": "spices",
       "color": "dark",
-      "description": "Fresh Coriander Seeds - Rajasthan",
-      "image": "https://gourmetgarden.in/cdn/shop/files/Coriander_Seeds-100_5d8d2c5a-38bf-4717-9927-59285173ddde_375x.jpg?v=1703955976",
-      "id": "3801"
+      "description": "Fresh Coriander_Powder",
+      "image": "https://gourmetgarden.in/cdn/shop/products/Coriander_Powder-100_0fd17148-aa4f-423e-ace8-2a04be3f7c77_375x.jpg?v=1703766163"
     },
     {
-      "name": "CorianderSeeds-Rajasthan",
+      "name": "Carrom_Seeds",
       "price": "30",
       "category": "spices",
       "color": "dark",
-      "description": "Fresh Coriander Seeds - Rajasthan",
-      "image": "https://gourmetgarden.in/cdn/shop/files/Coriander_Seeds-100_5d8d2c5a-38bf-4717-9927-59285173ddde_375x.jpg?v=1703955976",
-      "id": "ebcf"
+      "description": "Fresh Carrom_Seeds",
+      "image": "https://gourmetgarden.in/cdn/shop/products/Carrom_Seeds-100_8f05cce6-4e4b-41a2-9672-25a5c5d37c90_375x.jpg?v=1703837404"
     },
     {
-      "name": "CorianderSeeds-Rajasthan",
+      "name": "BayLeaf",
       "price": "30",
       "category": "spices",
       "color": "dark",
-      "description": "Fresh Coriander Seeds - Rajasthan",
-      "image": "https://gourmetgarden.in/cdn/shop/files/Coriander_Seeds-100_5d8d2c5a-38bf-4717-9927-59285173ddde_375x.jpg?v=1703955976",
-      "id": "b6f3"
+      "description": "Fresh BayLeaf",
+      "image": "https://gourmetgarden.in/cdn/shop/files/BayLeaf_9e7180e7-61b5-45e1-8140-26f0c7904948_375x.png?v=1704168800"
     },
     {
-      "name": "CorianderSeeds-Rajasthan",
+      "name": "Fenugreek_Seeds",
       "price": "30",
       "category": "spices",
       "color": "dark",
-      "description": "Fresh Coriander Seeds - Rajasthan",
-      "image": "https://gourmetgarden.in/cdn/shop/files/Coriander_Seeds-100_5d8d2c5a-38bf-4717-9927-59285173ddde_375x.jpg?v=1703955976",
-      "id": "203d"
+      "description": "Fresh Fenugreek_Seeds",
+      "image": "https://gourmetgarden.in/cdn/shop/products/Fenugreek_Seeds-100_58f22755-daf0-4836-a003-17116b588cfa_375x.jpg?v=1703766312"
     },
     {
-      "name": "CorianderSeeds-Rajasthan",
+      "name": "Cloves",
       "price": "30",
       "category": "spices",
       "color": "dark",
-      "description": "Fresh Coriander Seeds - Rajasthan",
-      "image": "https://gourmetgarden.in/cdn/shop/files/Coriander_Seeds-100_5d8d2c5a-38bf-4717-9927-59285173ddde_375x.jpg?v=1703955976",
-      "id": "b4a8"
-    },
-    {
-      "name": "CorianderSeeds-Rajasthan",
-      "price": "30",
-      "category": "spices",
-      "color": "dark",
-      "description": "Fresh Coriander Seeds - Rajasthan",
-      "image": "https://gourmetgarden.in/cdn/shop/files/Coriander_Seeds-100_5d8d2c5a-38bf-4717-9927-59285173ddde_375x.jpg?v=1703955976",
-      "id": "885c"
-    },
-    {
-      "name": "CorianderSeeds-Rajasthan",
-      "price": "30",
-      "category": "spices",
-      "color": "dark",
-      "description": "Fresh Coriander Seeds - Rajasthan",
-      "image": "https://gourmetgarden.in/cdn/shop/files/Coriander_Seeds-100_5d8d2c5a-38bf-4717-9927-59285173ddde_375x.jpg?v=1703955976",
-      "id": "9127"
+      "description": "Fresh Cloves",
+      "image": "https://gourmetgarden.in/cdn/shop/products/Cloves-100_5c8d7892-9b67-4182-8bc3-73158d16c5e1_375x.jpg?v=1703766161"
     }
   ],
   "grains": [
@@ -232,53 +382,47 @@
       "category": "Grains",
       "color": "White",
       "description": "Fresh RagiFlour",
-      "image": "https://gourmetgarden.in/cdn/shop/products/Ragi_Flour-100_a0f845f5-9e1c-4070-b777-c5e0e2eeba23_375x.jpg?v=1703766132",
-      "id": "4295"
+      "image": "https://gourmetgarden.in/cdn/shop/products/Ragi_Flour-100_a0f845f5-9e1c-4070-b777-c5e0e2eeba23_375x.jpg?v=1703766132"
     },
     {
-      "name": "RagiFlour",
+      "name": "Daal",
+      "price": "60",
+      "category": "Grains",
+      "color": "yellow",
+      "description": "Fresh daal",
+      "image": "https://gourmetgarden.in/cdn/shop/products/Toor_Daal_1945585b-81e8-4132-a0ac-78c6bc1da122_375x.png?v=1703837434"
+    },
+    {
+      "name": "Red Rice",
+      "price": "60",
+      "category": "Grains",
+      "color": "red",
+      "description": "Fresh Red Rice",
+      "image": "https://gourmetgarden.in/cdn/shop/products/red_rice_e20a1032-d3f6-4003-8538-8a53e5c358b5_375x.png?v=1703837428"
+    },
+    {
+      "name": "Yellow Moong",
+      "price": "60",
+      "category": "Grains",
+      "color": "yellow",
+      "description": "Fresh yellow moong",
+      "image": "https://gourmetgarden.in/cdn/shop/products/Yellow_moong_e7ea9a28-5265-4356-9003-d7a51d7c48e0_375x.png?v=1703837423"
+    },
+    {
+      "name": "Kabuli_Channa",
       "price": "60",
       "category": "Grains",
       "color": "White",
-      "description": "Fresh RagiFlour",
-      "image": "https://gourmetgarden.in/cdn/shop/products/Ragi_Flour-100_a0f845f5-9e1c-4070-b777-c5e0e2eeba23_375x.jpg?v=1703766132",
-      "id": "458c"
+      "description": "Fresh Kabuli_Channa",
+      "image": "https://gourmetgarden.in/cdn/shop/products/Kabuli_Channa-100_05fb38f4-86e7-44ca-9bc2-2a91efd0d744_375x.jpg?v=1703766139"
     },
     {
-      "name": "RagiFlour",
+      "name": "Multigrain_Flour",
       "price": "60",
       "category": "Grains",
       "color": "White",
-      "description": "Fresh RagiFlour",
-      "image": "https://gourmetgarden.in/cdn/shop/products/Ragi_Flour-100_a0f845f5-9e1c-4070-b777-c5e0e2eeba23_375x.jpg?v=1703766132",
-      "id": "b4c1"
-    },
-    {
-      "name": "RagiFlour",
-      "price": "60",
-      "category": "Grains",
-      "color": "White",
-      "description": "Fresh RagiFlour",
-      "image": "https://gourmetgarden.in/cdn/shop/products/Ragi_Flour-100_a0f845f5-9e1c-4070-b777-c5e0e2eeba23_375x.jpg?v=1703766132",
-      "id": "2dcb"
-    },
-    {
-      "name": "RagiFlour",
-      "price": "60",
-      "category": "Grains",
-      "color": "White",
-      "description": "Fresh RagiFlour",
-      "image": "https://gourmetgarden.in/cdn/shop/products/Ragi_Flour-100_a0f845f5-9e1c-4070-b777-c5e0e2eeba23_375x.jpg?v=1703766132",
-      "id": "6b70"
-    },
-    {
-      "name": "RagiFlour",
-      "price": "60",
-      "category": "Grains",
-      "color": "White",
-      "description": "Fresh RagiFlour",
-      "image": "https://gourmetgarden.in/cdn/shop/products/Ragi_Flour-100_a0f845f5-9e1c-4070-b777-c5e0e2eeba23_375x.jpg?v=1703766132",
-      "id": "170c"
+      "description": "Fresh Multigrain_Flour",
+      "image": "https://gourmetgarden.in/cdn/shop/products/Multigrain_Flour_b4cdf55a-55dd-4b83-b052-5ef8c59941cc_375x.jpg?v=1703766128"
     }
   ],
   "cartlist": [

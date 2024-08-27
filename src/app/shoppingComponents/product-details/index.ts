@@ -52,3 +52,5 @@ export interface IProduct {
 // https://gourmetgarden.in/
 // https://freshclub.co.in/collections/fresh-vegetables-online-hyderabad
 // https://blinkit.com/cn/fresh-vegetables/cid/1487/1489
+
+// npm install -g json-server@0.17.4
